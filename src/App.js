@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import Movies from "./components/movies";
 import "./App.css";
 
+//This is the main app
 class App extends Component {
   render() {
     return (
